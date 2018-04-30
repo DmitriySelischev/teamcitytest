@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+virtualenv/
+\.idea/
+*.sqlite3
+staticfiles/
+mediafiles/
